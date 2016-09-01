@@ -1,8 +1,8 @@
 # change apt source
 Menu -> Preferences -> System Settings -> Software Sources
 ## change to ustc source
-http://mirrors.ustc.edu.cn/linuxmint
-http://mirrors.ustc.edu.cn/ubuntu
+http://mirrors.ustc.edu.cn/linuxmint  
+http://mirrors.ustc.edu.cn/ubuntu  
 ## update source
 sudo apt-get update
 
