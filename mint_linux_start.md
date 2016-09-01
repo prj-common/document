@@ -13,6 +13,6 @@ install all Fcitx package
 http://m.blog.csdn.net/article/details?id=51555466
 
 # install more tools
-sudo apt-get install vim
-sudo apt-get install ctags
-sudo apt-get install cscope
+sudo apt-get install vim  
+sudo apt-get install ctags  
+sudo apt-get install cscope  
