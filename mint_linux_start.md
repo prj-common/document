@@ -21,3 +21,7 @@ http://m.blog.csdn.net/article/details?id=51555466
 sudo apt-get install vim  
 sudo apt-get install ctags  
 sudo apt-get install cscope  
+
+# the more mint document
+mint user guide[English version](https://www.linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)  
+mint user guide[Chinese verson](https://www.linuxmint.com/documentation/user-guide/Cinnamon/chinese_16.0.pdf)  
