@@ -19,9 +19,11 @@ http://m.blog.csdn.net/article/details?id=51555466
 
 # install more tools
 sudo apt-get install vim  
+sudo apt-get install git  
 sudo apt-get install ctags  
 sudo apt-get install cscope  
+sudo apt-get install chromium-browser  
 
 # the more mint document
-mint user guide[English version](https://www.linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)  
-mint user guide[Chinese verson](https://www.linuxmint.com/documentation/user-guide/Cinnamon/chinese_16.0.pdf)  
+mint user guide: [English version](https://www.linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)  
+mint user guide: [Chinese verson](https://www.linuxmint.com/documentation/user-guide/Cinnamon/chinese_16.0.pdf)  
