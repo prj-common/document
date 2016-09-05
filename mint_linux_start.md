@@ -18,11 +18,20 @@ install all Fcitx package
 http://m.blog.csdn.net/article/details?id=51555466
 
 # install more tools
-sudo apt-get install vim  
-sudo apt-get install git  
-sudo apt-get install ctags  
-sudo apt-get install cscope  
-sudo apt-get install chromium-browser  
+**simple edit:** sudo apt-get install gedit  
+**vim:** sudo apt-get install vim  
+**git:** sudo apt-get install git  
+**ctags:** sudo apt-get install ctags  
+**cscope:** sudo apt-get install cscope  
+**basic development:** sudo apt-get install build-essential  
+**Google chrome:** sudo apt-get install chromium-browser  
+**Atom:** https://atom.io/  
+**wiznote:**  
+```
+sudo add-apt-repository ppa:wiznote-team  
+sudo apt-get update  
+sudo apt-get install wiznote  
+```
 
 # the more mint document
 mint user guide: [English version](https://www.linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)  

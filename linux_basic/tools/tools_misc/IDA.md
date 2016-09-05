@@ -1,0 +1,17 @@
+IDA学习笔记
+http://blog.csdn.net/hgy413/article/details/7721147
+
+x86 加密exe文件调试
+https://hex-rays.com/products/ida/support/tutorials/unpack_pe/manual.shtml
+
+android代码动态加载技术
+http://bbs.pediy.com/showthread.php?t=142256
+
+IDA 6.7
+http://bbs.pediy.com/showthread.php?t=197589
+
+others
+http://www.openrce.org/articles/
+http://www.woodmann.com/forum/activity.php?s=cd5ff61f934e5106725928ba52c4b495
+http://old.idapalace.net/
+http://www.hexblog.com/

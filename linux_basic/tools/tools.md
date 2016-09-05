@@ -1,1 +1,7 @@
-todo
+[tools_misc](./tools_misc/tools_misc.md)  
+[shell](./shell/shell.md)  
+[sed](./sed/sed.md)  
+[vim](./vim/vim.md)  
+[git_and_patch](git_and_patch/git_and_patch.md)  
+[latex](./latex/letex.md)  
+[linux_distros_tools](./linux_distros_tools/linux_distros_tools.md)  
