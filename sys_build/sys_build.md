@@ -8,3 +8,9 @@
 
 ## arm64 study
 [arm64 study](./arm64_study.md)
+
+## os diy  
+[os diy](./os_diy.md)  
+
+## embedded environment for arm32  
+[embedded environment arm32](./embedded_env_arm32.md)  
