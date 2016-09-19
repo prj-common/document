@@ -12,5 +12,8 @@
 ## os diy  
 [os diy](./os_diy.md)  
 
-## embedded environment for arm32  
-[embedded environment arm32](./embedded_env_arm32.md)  
+## arm32 study environment
+[arm32 study environment](./env_arm32_study.md)
+
+## arm32 embedded environment
+[embedded environment arm32](./env_arm32_embedded.md)  
