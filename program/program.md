@@ -3,6 +3,7 @@
 ## matlab  
 
 ## java  
+[java](./java.md)  
 
 ## android  
 
