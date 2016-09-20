@@ -4,7 +4,7 @@
 sudo apt-get install qemu  
 
 ## install toolchain  
-sudo apt-get insatll gcc-arm-linux-gnueabi  
+sudo apt-get install gcc-arm-linux-gnueabi  
 sudo apt-get install libc6-dev-armel-cross  
 
 ## compiler & run
