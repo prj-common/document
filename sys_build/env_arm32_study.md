@@ -4,8 +4,13 @@
 sudo apt-get install qemu  
 
 ## install toolchain  
-sudo apt-get install gcc-arm-linux-gnueabi  
+sudo apt-get install g++-arm-linux-gnueabi  
+<!--
 sudo apt-get install libc6-dev-armel-cross  
+!-->
+
+## get code  
+git clone https://github.com/sys-build/embedded_env_arm32.git  
 
 ## compiler & run
 arm-linux-gnueabi-gcc -o hello hello.s main.c -static  
