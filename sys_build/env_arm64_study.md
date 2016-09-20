@@ -1,4 +1,4 @@
-# arm32 study environment
+# arm64 study environment
 
 ## install toolchain  
 sudo apt-get install g++-aarch64-linux-gnu  
