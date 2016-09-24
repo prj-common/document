@@ -14,6 +14,7 @@ Mint 17 LTS (Long Term Support till 2019)
 **cscope:** sudo apt-get install cscope  
 **basic development:** sudo apt-get install build-essential  
 **Google chrome:** sudo apt-get install chromium-browser  
+**ssh:** sudo apt-get install openssh-server openssh-client  
 **Atom:** https://atom.io/  
 **wiznote:**  
 ```
@@ -36,6 +37,9 @@ Reset PC
 Input Method -> Google Pinyin  
 
 Reset PC  
+
+# install iptux
+https://community.linuxmint.com/software/view/iptux
 
 ## mint 安装中文输入法
 http://m.blog.csdn.net/article/details?id=51555466
